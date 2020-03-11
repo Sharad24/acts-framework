@@ -1,3 +1,5 @@
+This is a clone of the ACTS Framework and the final product developed during Google Summer of Code 2019. Majority of the work was on the Reconstruction directory present inside Algorithms.
+
 # ACTS test framework
 
 A test framework for ACTS development: **absolutely not** intended
